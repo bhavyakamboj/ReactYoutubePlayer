@@ -2,8 +2,9 @@ import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
-
-const API_KEY = "";
+import Properties from '../config.js';
+ 
+const API_KEY = Properties();
 
 class App extends Component {
     constructor(props){
