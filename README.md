@@ -1,4 +1,4 @@
-# ReduxYoutubePlayer
+# ReactYoutubePlayer
 
 ### Getting Started
 This is a standalone youtube app built with React. Enjoy :)
